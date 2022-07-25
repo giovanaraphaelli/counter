@@ -1,4 +1,4 @@
-# Blog
+# Counter
 
 #### Segundo projeto do curso de React Direto ao Ponto
 
